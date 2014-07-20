@@ -102,8 +102,13 @@ h1,h2,h3 {
     padding:0;
     position: relative;
     margin-bottom: 50px;
+    overflow: hidden;
 }
+.list-inline.images li img {
 
+    width: 100%;
+    height: auto;
+}
 .list-inline.images li span {
 
     display: block;
@@ -177,4 +182,14 @@ h1,h2,h3 {
     font-size: 60px;
     display: block;
     margin-top: 40%;
+}
+
+.contact {
+
+    background-color: #EE6238;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 30px;
+    height: auto;
+    padding-bottom: 20px;
 }
