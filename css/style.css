@@ -79,7 +79,7 @@ h1,h2,h3 {
 .speakers {
 
     background-color: #FAFAFA;
-    height: 1000px;
+    height: 1050px;
     text-align: center;
     padding-top: 20px;
     font-size: 25px;
@@ -149,6 +149,7 @@ h1,h2,h3 {
 .container .col-md-8 div li {
 
     margin-bottom: 20px;
+    height: 70px;
 }
 
 .checkin {
